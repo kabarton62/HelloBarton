@@ -1,13 +1,10 @@
 # HelloBarton
 ### App Description
-`TODO://` Add app description
+Simple hello app that allows a user to set custom text in the banner. Click on the text entry field, type text and click Change Text button. The default text is Android is Awesome!, which will be presented if no input has been provided and the Change Text button is clicked. Two additional buttons are provided that allow a user to change the text color and background color. Clicking on the background restores original settings.
 
 ### App Walk-though
-`TODO://` 
 
 <img src="http://g.recordit.co/AxRHTBn0zP.gif" width=200><br>
-
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (â˜ï¸ Remove this paragraph after after checking off user stories)
 
 ### Required User Stories
 - [X] 1. User sees custom text in a label - Hello from {name}!
