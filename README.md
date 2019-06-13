@@ -3,7 +3,7 @@
 `TODO://` Add app description
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (â˜ï¸ Remove this paragraph after after adding gif)
+`TODO://` 
 
 <img src="http://g.recordit.co/AxRHTBn0zP.gif" width=200><br>
 
